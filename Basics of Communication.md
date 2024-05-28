@@ -12,6 +12,7 @@ Channel capacity refers to the maximum rate at which information can be reliably
 
 Shannon-Hartley theory to calculate channel capacity 
 >  C = B log2 ( 1+ SNR) where C is channel capacity in bits per second, B is Bandwidth (Hz) and SNR is Signal-to-noise ratio
+Due to noise, we can’t have infinite capacity.
 
 **Coding Strategies** 
 When we send information over a channel it can be hard to detect if we received the information that was sent correctly. 
