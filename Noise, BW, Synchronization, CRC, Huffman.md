@@ -2,6 +2,9 @@
 Hamming distance is the number of bits which differ between two words. 
 Hence, Hamming (7,4) can correct for words which differ by a distance of 1. Can detect errors of distance 2 and distance 3 corresponds to valid code-words again.
 
+** Slew ** 
+Bandwidth is limited by Slew rate of circuit
+
 **CRC16**
 CRC16 (Cyclic Redundancy Check 16) is a type of cyclic redundancy check algorithm that is used to detect errors in data transmission or storage. It generates a 16-bit checksum (also known as a CRC value) based on the data being checked, which can then be used to verify the integrity of the data.
 
