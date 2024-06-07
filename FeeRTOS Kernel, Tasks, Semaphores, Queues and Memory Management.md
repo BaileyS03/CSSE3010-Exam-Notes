@@ -39,3 +39,7 @@ Co-routine states:
 * Running: utilising the CPU
 * Ready: Thay are able to be executed but are not currently executing.
 * Blocked: Waiting for either a temporal or external event.
+State Diagram :
+![Co-Routine State Diagram](images/Co-Routine%20State%20Diagram.png)
+
+** Items available in FreeRTOS ** 
